@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi this is Eric and currently I am working on learning machine learning specifically reinforcement learning, I originally learnt Java but have since transitioned into Python due to its larger ecosystem and community for machine learning
 
 <!--
 **Bloodaxe90/Bloodaxe90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
