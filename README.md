@@ -3,12 +3,6 @@ A 2nd year Computer Science undergraduate at the University of York with a stron
 
 ---
 
-<h3 align="left">Projects I am proud of</h3>
-
-
-
----
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
