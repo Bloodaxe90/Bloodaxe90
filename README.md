@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Eric</h1>
 
-<h3 align="left">About Me</h3>
+<h3 align="left">About Me:</h3>
 <p>
   I am a 2nd-year Computer Science undergraduate at the University of York with a strong interest in machine learning, particularly reinforcement learning. My long-term goal is to eventually get into intelligent robotics after developing a solid understanding of machine learning.
 </p>
@@ -30,7 +30,7 @@
 
 ---
 
-<h3 align="left">My Work</h3>
+<h3 align="left">My Work:</h3>
 <p>
   Every project on this profile was created to test and apply what I had just learned. Many were originally designed for my own use only and so I’ve since adapted them to be more accessible to others. Just keep that in mind while browsing my repositories.
 </p>
